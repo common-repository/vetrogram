@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vetrogram\n"
+"POT-Creation-Date: 2016-10-17 21:15+0330\n"
+"PO-Revision-Date: 2016-10-17 21:16+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/options.php:15
+msgid "Uppercase"
+msgstr ""
+
+#: admin/options.php:16
+msgid "Lowercase"
+msgstr ""
+
+#: admin/options.php:17
+msgid "Capitalize"
+msgstr ""
+
+#: admin/options.php:21 vetrogram.php:756
+msgid "Shortcode Generator"
+msgstr ""
+
+#: admin/options.php:24
+msgid "General"
+msgstr ""
+
+#: admin/options.php:27
+msgid "Design"
+msgstr ""
+
+#: admin/options.php:30
+msgid "Profile"
+msgstr ""
+
+#: admin/options.php:33
+msgid "Pagination"
+msgstr ""
+
+#: admin/options.php:41
+msgid "Username"
+msgstr ""
+
+#: admin/options.php:47
+msgid "Posts Per Page"
+msgstr ""
+
+#: admin/options.php:53
+msgid "Style"
+msgstr ""
+
+#: admin/options.php:57
+msgid "Grid"
+msgstr ""
+
+#: admin/options.php:60
+msgid "Masonry"
+msgstr ""
+
+#: admin/options.php:66
+msgid "Columns"
+msgstr ""
+
+#: admin/options.php:70
+msgid "1 Column"
+msgstr ""
+
+#: admin/options.php:73
+msgid "2 Column"
+msgstr ""
+
+#: admin/options.php:76
+msgid "3 Column"
+msgstr ""
+
+#: admin/options.php:79
+msgid "4 Column"
+msgstr ""
+
+#: admin/options.php:82
+msgid "5 Column"
+msgstr ""
+
+#: admin/options.php:88
+msgid "Margin Between Columns"
+msgstr ""
+
+#: admin/options.php:94
+msgid "Show Profile Section?"
+msgstr ""
+
+#: admin/options.php:98 admin/options.php:111 admin/options.php:134
+#: admin/options.php:242 admin/options.php:255 admin/options.php:268
+#: admin/options.php:281 admin/options.php:294
+msgid "Yes"
+msgstr ""
+
+#: admin/options.php:101 admin/options.php:114 admin/options.php:137
+#: admin/options.php:245 admin/options.php:258 admin/options.php:271
+#: admin/options.php:284 admin/options.php:297
+msgid "No"
+msgstr ""
+
+#: admin/options.php:107
+msgid "Enable Pagination?"
+msgstr ""
+
+#: admin/options.php:120
+msgid "CSS Class"
+msgstr ""
+
+#: admin/options.php:130
+msgid "Show Post Details?(on hover)"
+msgstr ""
+
+#: admin/options.php:143
+msgid "Post Border Radius"
+msgstr ""
+
+#: admin/options.php:148
+msgid "Post Details"
+msgstr ""
+
+#: admin/options.php:151
+msgid "Post Cover Color"
+msgstr ""
+
+#: admin/options.php:157
+msgid "Post Cover Border Size(px)"
+msgstr ""
+
+#: admin/options.php:163
+msgid "Post Cover Border Color"
+msgstr ""
+
+#: admin/options.php:169 admin/options.php:333 admin/options.php:379
+#: admin/options.php:425 admin/options.php:469 admin/options.php:559
+msgid "Font Family"
+msgstr ""
+
+#: admin/options.php:178 admin/options.php:342 admin/options.php:388
+#: admin/options.php:434 admin/options.php:478 admin/options.php:568
+msgid "Font Size(px)"
+msgstr ""
+
+#: admin/options.php:184 admin/options.php:354 admin/options.php:400
+#: admin/options.php:446 admin/options.php:484 admin/options.php:580
+msgid "Letter Spacing(px)"
+msgstr ""
+
+#: admin/options.php:190 admin/options.php:368 admin/options.php:414
+#: admin/options.php:452 admin/options.php:594
+msgid "Font Weight"
+msgstr ""
+
+#: admin/options.php:198 admin/options.php:348 admin/options.php:394
+#: admin/options.php:440 admin/options.php:574
+msgid "Color"
+msgstr ""
+
+#: admin/options.php:205
+msgid "Icons Size(px)"
+msgstr ""
+
+#: admin/options.php:211
+msgid "Icons Color"
+msgstr ""
+
+#: admin/options.php:222
+msgid "Profile Align"
+msgstr ""
+
+#: admin/options.php:226
+msgid "Left"
+msgstr ""
+
+#: admin/options.php:229
+msgid "Center"
+msgstr ""
+
+#: admin/options.php:232
+msgid "Right"
+msgstr ""
+
+#: admin/options.php:238
+msgid "Show Avatar?"
+msgstr ""
+
+#: admin/options.php:251
+msgid "Show Name?"
+msgstr ""
+
+#: admin/options.php:264
+msgid "Show Biography?"
+msgstr ""
+
+#: admin/options.php:277
+msgid "Show Website?"
+msgstr ""
+
+#: admin/options.php:290
+msgid "Show User Statistics?"
+msgstr ""
+
+#: admin/options.php:302
+msgid "Avatar"
+msgstr ""
+
+#: admin/options.php:305
+msgid "Position"
+msgstr ""
+
+#: admin/options.php:309
+msgid "Above User Details"
+msgstr ""
+
+#: admin/options.php:312
+msgid "Inside User Details"
+msgstr ""
+
+#: admin/options.php:318 admin/options.php:602
+msgid "Border Radius"
+msgstr ""
+
+#: admin/options.php:324
+msgid "Size(px)"
+msgstr ""
+
+#: admin/options.php:330
+msgid "Name"
+msgstr ""
+
+#: admin/options.php:360 admin/options.php:406 admin/options.php:586
+msgid "Text Transform"
+msgstr ""
+
+#: admin/options.php:376
+msgid "Biography"
+msgstr ""
+
+#: admin/options.php:422
+msgid "Website"
+msgstr ""
+
+#: admin/options.php:460 admin/options.php:647
+msgid "Icon Color"
+msgstr ""
+
+#: admin/options.php:466
+msgid "Statistics"
+msgstr ""
+
+#: admin/options.php:490
+msgid "Labels Text Transform"
+msgstr ""
+
+#: admin/options.php:498
+msgid "Labels Font Weight"
+msgstr ""
+
+#: admin/options.php:506
+msgid "Labels Color"
+msgstr ""
+
+#: admin/options.php:512
+msgid "Numbers Font Weight"
+msgstr ""
+
+#: admin/options.php:520
+msgid "Numbers Color"
+msgstr ""
+
+#: admin/options.php:531
+msgid "Pagination Style"
+msgstr ""
+
+#: admin/options.php:535 admin/options.php:543
+msgid "Load More Button"
+msgstr ""
+
+#: admin/options.php:538
+msgid "Infinite Scroll"
+msgstr ""
+
+#: admin/options.php:546
+msgid "Text"
+msgstr ""
+
+#: admin/options.php:552
+msgid "Background Color"
+msgstr ""
+
+#: admin/options.php:608
+msgid "Border Width(px)"
+msgstr ""
+
+#: admin/options.php:614
+msgid "Border Color"
+msgstr ""
+
+#: admin/options.php:620
+msgid "Background Hover Color"
+msgstr ""
+
+#: admin/options.php:626
+msgid "Text Hover Color"
+msgstr ""
+
+#: admin/options.php:632
+msgid "Border Hover Color"
+msgstr ""
+
+#: admin/options.php:638
+msgid "Loading Icon"
+msgstr ""
+
+#: admin/options.php:641
+msgid "Icon Size(px)"
+msgstr ""
+
+#: admin/options.php:656
+msgid "Copy this code and use it in Widgets, Posts, Pages and etc."
+msgstr ""
+
+#: vetrogram.php:597
+msgid "This Account is Private."
+msgstr ""
+
+#: vetrogram.php:602
+msgid "This user does not exist. Please check your Username."
+msgstr ""
+
+#: vetrogram.php:648
+msgid "Posts"
+msgstr ""
+
+#: vetrogram.php:649
+msgid "Followers"
+msgstr ""
+
+#: vetrogram.php:650
+msgid "Following"
+msgstr ""
+
+#: vetrogram.php:709
+msgid "Load More"
+msgstr ""
+
+#: vetrogram.php:721
+msgid "No posts found."
+msgstr ""
+
+#: vetrogram.php:725
+msgid "Unable to connect to Instagram. Please check your internet connection."
+msgstr ""
+
+#: vetrogram.php:729
+msgid "Please enter your Username."
+msgstr ""
+
+#: vetrogram.php:756
+msgid "VetroGeram"
+msgstr ""

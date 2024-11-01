@@ -1,0 +1,146 @@
+.vtg-admin-clearfix {
+  clear: both;
+  zoom: 1;
+}
+.vtg-admin-clearfix:after, .vtg-admin-clearfix:before {
+  display: block;
+  clear: both;
+  content: '';
+}
+
+.vtg-admin-wrapper {
+  padding: 40px;
+  background: #fff;
+  margin-right: 20px;
+  margin-top: 40px;
+  border-radius: 3px;
+  box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.05);
+}
+.vtg-admin-wrapper .wp-picker-container .iris-picker {
+  position: absolute;
+  z-index: 2;
+}
+.vtg-admin-wrapper .wp-picker-container, .vtg-admin-wrapper .wp-picker-container:active {
+  height: 38px;
+  padding-top: 7px;
+}
+.vtg-admin-wrapper .wp-color-result {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.vtg-admin-wrapper *, .vtg-admin-wrapper *:before, .vtg-admin-wrapper *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.vtg-admin-heading {
+  color: #949494;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.7em;
+}
+
+h2.vtg-admin-heading {
+  font-size: 1.5em;
+}
+
+h4.vtg-admin-heading {
+  font-size: 1.3em;
+}
+
+.vtg-admin-tabs-title {
+  margin: 15px 0 0;
+}
+.vtg-admin-tabs-title li {
+  display: inline-block;
+  padding: 10px 12px;
+  border-radius: 3px;
+  background: #f4f4f4;
+  font-size: 14px;
+  color: #949494;
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  -webkit-transition: color 0.15s ease-in-out, background 0.15s ease-in-out;
+  -ms-transition: color 0.15s ease-in-out, background 0.15s ease-in-out;
+  -moz-transition: color 0.15s ease-in-out, background 0.15s ease-in-out;
+  -o-transition: color 0.15s ease-in-out, background 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out, background 0.15s ease-in-out;
+}
+.vtg-admin-tabs-title li.active, .vtg-admin-tabs-title li:hover {
+  background: #7eb215;
+  color: #fff;
+}
+
+.vtg-admin-tabs-content {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #ededed;
+  margin-bottom: 40px;
+}
+.vtg-admin-tabs-content .vtg-admin-tab-content {
+  display: none;
+}
+.vtg-admin-tabs-content .vtg-admin-tab-content:first-child {
+  display: block;
+}
+
+.vtg-admin-textfield {
+  border: none !important;
+  box-shadow: none !important;
+  padding: 8px 15px !important;
+  background: #f4f4f4 !important;
+  border-radius: 3px;
+  width: 100%;
+  font-size: 12px;
+  margin: 0;
+  height: 38px !important;
+  line-height: normal !important;
+  box-sizing: border-box;
+}
+
+.vtg-admin-color {
+  max-width: 65px;
+}
+
+.vtg-admin-label {
+  font-size: 14px;
+  color: #949494;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.vtg-admin-columns {
+  margin: -10px;
+}
+.vtg-admin-columns .vtg-admin-column {
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.vtg-admin-columns .vtg-admin-column.vtg-column-full {
+  width: 100%;
+}
+.vtg-admin-columns .vtg-admin-column.vtg-column-one-half {
+  width: 50%;
+}
+.vtg-admin-columns .vtg-admin-column.vtg-column-one-third {
+  width: 33.3333%;
+}
+
+.vtg-admin-shortcode-box {
+  resize: none;
+  margin-top: 15px;
+  height: 200px !important;
+  cursor: pointer;
+  padding: 15px !important;
+}
+
+.vtg-admin-subsection {
+  padding-top: 25px;
+}
+.vtg-admin-subsection .vtg-admin-heading {
+  margin: 0 10px;
+}
